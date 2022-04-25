@@ -42,7 +42,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://Blockzone.online/NFT/BCC", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://Blockzone.online", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
