@@ -53,7 +53,7 @@ const LIMIT = 2; // Your API key rate limit
 const CHAIN = 'rinkeby'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
-const CONTRACT_NAME = 'Bored Cat Club';
+const CONTRACT_NAME = 'Bored Cats Club';
 const CONTRACT_SYMBOL = 'BCC';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xE5A2f7C6D3E2a337d3F75AD1BE2CEC2bc7EA8eB6';
