@@ -7,8 +7,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Bored Cat Club";
-const description = "Bore Cat Club - Cat Me If you Can";
+const namePrefix = "Bored Cats Club";
+const description = "Bore Cats Club - Cat Me If you Can";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
