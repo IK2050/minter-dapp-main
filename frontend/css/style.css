@@ -8,11 +8,11 @@
   --font-primary: "Comic Neue", sans-serif;
   --font-secondary: "Comic Neue", serif;
   --font-code: "Comic Neue", monospace;
-  --bg-color: #7cfd87;
-  --bg-color-transparent: #e7b27f80;
-  --font-color: #eb4444;
+  --bg-color: #00eeff;
+  --bg-color-transparent: #e6974d80;
+  --font-color: #2314f7;
   --btn-bg-color: #ffffff;
-  --accent-color: #fa5e8d;
+  --accent-color: #96002d;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
